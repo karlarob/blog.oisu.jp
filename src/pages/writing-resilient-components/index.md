@@ -1,10 +1,10 @@
 ---
-title: Writing Resilient Components
+title: フガフガ
 date: '2019-03-16'
-spoiler: Four principles to set you on the right path.
+spoiler: ほげほげ
 ---
 
-When people start learning React, they often ask for a style guide. While it’s a good idea to have some consistent rules applied across a project, a lot of them are arbitrary — and so React doesn’t have a strong opinion about them.
+ホゲホゲふがふが.
 
 You can use different type systems, prefer function declarations or arrow functions, sort your props in alphabetical order or in an order you find pleasing.
 

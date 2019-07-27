@@ -1,11 +1,11 @@
 {
-  "name": "overreacted",
+  "name": "blog.oisulab.com",
   "private": true,
-  "description": "Overreacted",
+  "description": "oisu blog",
   "version": "1.0.0",
-  "author": "Dan Abramov <dan.abramov@me.com>",
+  "author": "oisu <oisuoisu@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gaearon/overreacted.io/issues"
+    "url": "https://github.com/oisu/blog.oisulab.com/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.76",
@@ -45,7 +45,7 @@
     "gh-pages": "^1.2.0",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://overreacted.io",
+  "homepage": "https://blog.oisulab.io",
   "license": "MIT",
   "scripts": {
     "dev": "gatsby develop",
@@ -55,7 +55,7 @@
     "start": "npm run develop",
     "build": "rm -rf public && rm -rf .cache && gatsby build",
     "now-build": "gatsby build",
-    "deploy": "yarn build && cp now.json public/ && cd public && now alias $(now) overreacted.io",
+    "deploy": "yarn build && cp now.json public/ && cd public && now alias $(now) blog.oisulab.io",
     "dry": "yarn build && cp now.json public/ && cd public && now"
   },
   "husky": {
