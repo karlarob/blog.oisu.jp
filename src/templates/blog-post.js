@@ -54,7 +54,7 @@ class Translations extends React.Component {
                   <br />
                 </span>
               )}
-              <span>Translated by readers into: </span>
+              <span>Translated by oisu into: </span>
               {readerTranslations.map((l, i) => (
                 <React.Fragment key={l}>
                   {l === lang ? (
@@ -69,7 +69,6 @@ class Translations extends React.Component {
           )}
           {lang !== 'en' && (
             <>
-              <br />
               <br />
               {lang !== 'ru' && (
                 <>
