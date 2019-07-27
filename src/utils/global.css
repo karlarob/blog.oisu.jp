@@ -1,6 +1,6 @@
 body {
   --pink: rgb(255, 167, 196);
-  --indigo: #330099;
+  --indigo: #6571dd;
   background-color: var(--bg);
 }
 
@@ -9,7 +9,7 @@ body.light {
   --header: var(--indigo);
   --textNormal: #222;
   --textTitle: #222;
-  --textLink: #330099;
+  --textLink: var(--indigo);
   --hr: hsla(0, 0%, 0%, 0.2);
   --inlineCode-bg: rgba(208, 203, 255, 0.2);
   --inlineCode-text: #1a1a1a;
