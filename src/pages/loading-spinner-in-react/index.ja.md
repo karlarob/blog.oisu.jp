@@ -1,7 +1,7 @@
 ---
 title: Loading Spinner In React
 date: '2019-11-25'
-spoiler: Spinner Hell
+spoiler: スピナー地獄
 ---
 
 非同期処理中のいわゆる **Loading Spinner** をアプリでどう制御するかって, ほとんどのフロントエンド開発者が直面するであろう問題にもかかわらず、あまり議論されることがない気がします。

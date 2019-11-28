@@ -1,7 +1,7 @@
 ---
 title: Loading Spinner In React
 date: '2019-11-25'
-spoiler: スピナー地獄
+spoiler: Spinner Hell
 ---
 
 I suppose how to handle **progress indicator** while async request in App isn't too often discussed, although it's such a significant topic which most frontend app devs would face.
